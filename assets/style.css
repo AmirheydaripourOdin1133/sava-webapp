@@ -57,7 +57,7 @@ position: relative;
 }
 header::before{
     position: absolute;
-    content: url(../imgs/2324242.svg);
+    content: url(./imgs/2324242.svg);
     top: 0;
     right: 0;
     opacity: 0.2;
@@ -116,7 +116,7 @@ header .Parenthead .divcenterlogo h1 > span{
 }
 header .Parenthead .divcenterlogo h1::before{
     position: absolute;
-    content: url(../imgs/Ellipse17.svg);
+    content: url(./imgs/Ellipse17.svg);
     top: -12px;
     width: 100%;
     left: 10px;
@@ -130,7 +130,7 @@ header .Parenthead .divcenterlogo > a:first-child{
 }
 header .Parenthead .divcenterlogo > a:first-child::before{
     position: absolute;
-    content: url(../imgs/Ellipse16.svg);
+    content: url(./imgs/Ellipse16.svg);
     z-index: -1;
     left: 0;
   top: -11px;
@@ -192,7 +192,7 @@ header .Parenthead .divwallet .iconwallet > img{
 }
 .Sections-Grids-Items::before{
     position: absolute;
-    content: url(../imgs/2324242.svg);
+    content: url(./imgs/2324242.svg);
     z-index: -1;
     top: calc(0px + -35px);
     opacity: 0.2;
@@ -305,7 +305,7 @@ header .Parenthead .divwallet .iconwallet > img{
 }
 .Sections-Grids-Items .itmsGrid:nth-child(1) .divParentimgsZwei::before{
     position: absolute;
-    content: url(../imgs/bac/1.svg);
+    content: url(./imgs/bac/1.svg);
     right: 0;
     bottom: 0;
     height: 100%;
@@ -315,7 +315,7 @@ header .Parenthead .divwallet .iconwallet > img{
 
 .Sections-Grids-Items .itmsGrid:nth-child(2) .divParentimgsZwei::before{
     position: absolute;
-    content: url(../imgs/bac/2.svg);
+    content: url(./imgs/bac/2.svg);
     right: 0;
     bottom: 0;
     height: 100%;
@@ -325,7 +325,7 @@ header .Parenthead .divwallet .iconwallet > img{
 
 .Sections-Grids-Items .itmsGrid:nth-child(3) .divParentimgsZwei::before{
     position: absolute;
-    content: url(../imgs/bac/3.svg);
+    content: url(./imgs/bac/3.svg);
     right: 0;
     bottom: 0;
     height: 100%;
@@ -335,7 +335,7 @@ header .Parenthead .divwallet .iconwallet > img{
 
 .Sections-Grids-Items .itmsGrid:nth-child(4) .divParentimgsZwei::before{
     position: absolute;
-    content: url(../imgs/bac/4.svg);
+    content: url(./imgs/bac/4.svg);
     right: 0;
     bottom: 0;
     height: 100%;
@@ -345,7 +345,7 @@ header .Parenthead .divwallet .iconwallet > img{
 
 .Sections-Grids-Items .itmsGrid:nth-child(5) .divParentimgsZwei::before{
     position: absolute;
-    content: url(../imgs/bac/5.svg);
+    content: url(./imgs/bac/5.svg);
     right: 0;
     bottom: 0;
     height: 100%;
@@ -355,7 +355,7 @@ header .Parenthead .divwallet .iconwallet > img{
 
 .Sections-Grids-Items .itmsGrid:nth-child(6) .divParentimgsZwei::before{
     position: absolute;
-    content: url(../imgs/bac/6.svg);
+    content: url(./imgs/bac/6.svg);
     right: 0;
     bottom: 0;
     height: 100%;
@@ -528,7 +528,7 @@ transform: translate(0 , -2px);
 }
 .SectionInsta .Parentinsta::before{
     position: absolute;
-    content: url(../imgs/bacinsta.svg);
+    content: url(./imgs/bacinsta.svg);
 }
 .SectionInsta .Parentinsta .Einsimg{
     width: 16%;
@@ -660,7 +660,7 @@ fill:rgba(63, 74, 205, 1);
 }
 .mobileMenuParent::before{
     position: absolute;
-  content: url(../imgs/2324242.svg);
+  content: url(./imgs/2324242.svg);
   top: 0;
   right: 0;
   opacity: 0.2;
